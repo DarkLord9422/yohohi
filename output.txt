@@ -7941,3 +7941,7 @@
 131.186.27.112,2096,KR,Oracle Cloud
 84.32.44.80,443,US,Hosteons.com
 23.94.57.31,443,US,N/A.N/A
+98.70.26.236,443,IN,Microsoft Azure
+185.169.107.52,8443,NL,Digital City FZE
+185.169.107.52,2053,NL,Digital City FZE
+69.143.174.201,8443,US,Comcast Cable Communications
